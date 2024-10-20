@@ -272,7 +272,7 @@ main #agregados .produtosagregados img{
     width: 200px;
 }
 
-main #agregados divx{
+main #agregados div{
     display: flex;
     flex-direction: column;
     align-items: center;
